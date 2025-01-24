@@ -2,7 +2,7 @@
   "name": "valentine-timer",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://lepi1111.github.io/valentines-app",
+  "homepage": "https://lepi1111.github.io/valentine-timer",
   "type": "module",
   "scripts": {
     "dev": "vite",
